@@ -27,7 +27,11 @@ void foo(MyClass value)
 	cout << "Âûçîâ Ôóó" << endl;
 }
 class a {};
-class b();
+class b {};
+void gui()
+{
+	int a;
+}
 
 
 int main()
