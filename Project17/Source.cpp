@@ -26,6 +26,8 @@ void foo(MyClass value)
 {
 	cout << "Âûçîâ Ôóó" << endl;
 }
+class a {};
+class b();
 
 
 int main()
