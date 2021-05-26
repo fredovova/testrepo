@@ -32,7 +32,10 @@ void gui()
 {
 	int a;
 }
-
+void into()
+{
+	int b;
+}
 
 int main()
 {
